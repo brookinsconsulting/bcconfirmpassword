@@ -1,0 +1,5 @@
+BC Confirm Password FAQ
+
+- You can create a settings override of bcconfirmpassword.ini.append.php and customize the re-confirm password timeout limit by changing the number of minutes in the ReConfirmTimeInMinutes setting variable.
+
+- We can implement clearing the session variable which stores the timestamp check upon logout so that each time you login you are forced to re-confirm if users desire this feature. Currently the session variable persists upon logout.

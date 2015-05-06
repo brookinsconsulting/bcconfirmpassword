@@ -1,0 +1,1 @@
+../../../../kernel/content/urlalias_wildcard.php

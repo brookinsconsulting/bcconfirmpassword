@@ -1,0 +1,1 @@
+../../../../kernel/content/node_edit.php

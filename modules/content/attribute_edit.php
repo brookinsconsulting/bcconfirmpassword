@@ -1,0 +1,1 @@
+../../../../kernel/content/attribute_edit.php

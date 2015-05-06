@@ -1,0 +1,1 @@
+../../../../kernel/content/copy.php
